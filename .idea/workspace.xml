@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aff08dab-6128-439f-9b49-8ff3e6d04773" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ListaTareas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ListaTareas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tarea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tarea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ventana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ventana.java" afterDir="false" />
-    </list>
+    <list default="true" id="aff08dab-6128-439f-9b49-8ff3e6d04773" name="Changes" comment="Actualización" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +43,14 @@
       <option name="presentableId" value="Default" />
       <updated>1679409680966</updated>
     </task>
+    <task id="LOCAL-00001" summary="Actualización">
+      <created>1679688628316</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679688628316</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -62,5 +63,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Actualización" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualización" />
   </component>
 </project>
