@@ -17,6 +17,6 @@ public class Tarea {
 
 	@Override
 	public String toString() {
-		return "Nombre: " + getNombre();
+		return getNombre()+" \n";
 	}
 }

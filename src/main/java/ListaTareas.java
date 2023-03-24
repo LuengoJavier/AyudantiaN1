@@ -10,10 +10,6 @@ public class ListaTareas {
 		return tarea;
 	}
 
-	public Tarea buscarTarea(String nombre, Date fecha) {
-		throw new UnsupportedOperationException();
-	}
-
 	public boolean eliminarTarea(String nombre) {
 		for(Tarea tarea : this.tareas){
 			if(tarea.getNombre().equals(nombre)){
@@ -25,8 +21,10 @@ public class ListaTareas {
 	}
 
 	public void mostrarTareas() {
+		int numero = 1;
 		for(Tarea tarea : this.tareas){
-			System.out.print(tarea.toString());
+			System.out.print(numero+".- "+tarea.toString());
+			numero++;
 		}
 	}
 }
